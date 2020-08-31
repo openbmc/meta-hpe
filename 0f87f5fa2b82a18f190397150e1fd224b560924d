@@ -1,0 +1,10 @@
+Code-Review+1: Mike Garrett <mike.garrett@hpe.com>
+Ok-To-Test+1: <jean-marie.verdun@hpe.com>
+Verified+1: <jean-marie.verdun@hpe.com>
+Verified+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Code-Review+2: <jean-marie.verdun@hpe.com>
+Submitted-by: Jorge Cisneros <jorge.cisneros@hpe.com>
+Submitted-at: Mon, 31 Aug 2020 16:44:56 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-hpe/+/36064
+Project: openbmc/meta-hpe
+Branch: refs/heads/master
