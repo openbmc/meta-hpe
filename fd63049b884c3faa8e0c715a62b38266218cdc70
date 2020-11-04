@@ -1,0 +1,11 @@
+Ok-To-Test+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Code-Review+1: Jorge Cisneros <jorge.cisneros@hpe.com>
+Code-Review+1: Patrick Williams <patrick@stwcx.xyz>
+Code-Review+1: Ed Tanous <ed@tanous.net>
+Code-Review+2: Mike Garrett <mike.garrett@hpe.com>
+Verified+1: Mike Garrett <mike.garrett@hpe.com>
+Submitted-by: Mike Garrett <mike.garrett@hpe.com>
+Submitted-at: Wed, 04 Nov 2020 20:30:30 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-hpe/+/37954
+Project: openbmc/meta-hpe
+Branch: refs/heads/master
