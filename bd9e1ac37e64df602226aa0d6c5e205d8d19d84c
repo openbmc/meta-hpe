@@ -1,0 +1,9 @@
+Ok-To-Test+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Code-Review+1: Gilbert Chen <gilbert.chen@hpe.com>
+Verified+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Code-Review+2: Jorge Cisneros <jorge.cisneros@hpe.com>
+Submitted-by: Patrick Williams <patrick@stwcx.xyz>
+Submitted-at: Wed, 04 Nov 2020 17:29:10 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-hpe/+/37931
+Project: openbmc/meta-hpe
+Branch: refs/heads/master
