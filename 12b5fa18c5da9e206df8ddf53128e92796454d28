@@ -1,0 +1,9 @@
+Ok-To-Test+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Code-Review+2: Mike Garrett <mike.garrett@hpe.com>
+Code-Review+1: Brad Bishop <bradleyb@fuzziesquirrel.com>
+Verified+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Submitted-by: Mike Garrett <mike.garrett@hpe.com>
+Submitted-at: Tue, 12 Jan 2021 15:07:32 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-hpe/+/39565
+Project: openbmc/meta-hpe
+Branch: refs/heads/master
